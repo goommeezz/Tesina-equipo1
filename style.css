@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.img_header {
+  width: 100%;
+  height: 400px;
+}
+.img_card {
+  height: 100px;
+}
+.img_headers {
+  width: 100%;
+  height: 550px;
+  background-image: url("img/sala.jpg");
+  background-size: cover;
+  background-position: bottom;
+}
+.title_header {
+  color: white;
+  font-size: 80px;
+  margin: 0;
+  width: 500px;
+}
+.logo{
+  width: 70px;
+}
+.content_gray{
+  width: 100%;
+  height: 400px;
+  background-color: rgba(211, 204, 204, 0.2);
+  position: absolute;
+  z-index: -1;
+}
+.content_withe{
+  width: 100%;
+  height: 1200px;
+}
+.post{
+  font-size: 200px;
+  font-weight: bold;
+  color: white;
+  right: 0;
+  bottom: -90px;
+}
+.pic img{
+  width: 80px;
+  border-radius: 50%;
+  box-shadow:1px 1px 7px rgba(0, 0, 0, 0.534);
+
+}
+.galeri{
+  font-size: 200px;
+  font-weight: bold;
+  color: rgba(211, 204, 204, 0.2 );
+  margin-top: -120px;
+}
+.nosotros{
+  font-size: 200px;
+  font-weight: bold;
+  color: white;
+  left: -15px;
+  top: -110px;
+}
+.Contactanos{
+  font-size: 200px;
+  font-weight: bold;
+  color: rgba(211, 204, 204, 0.2 );
+}
+.card_post{
+  width: 500px;
+  height: 500px;
+  background-color: white;
+  box-shadow:1px 1px 7px rgba(0, 0, 0, 0.534);
+  position: relative;
+  z-index: 200;
+  top: -50px;
+  left: 50px;
+  padding: 35px;
+}
+
